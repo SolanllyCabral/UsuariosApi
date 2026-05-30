@@ -142,11 +142,11 @@ DELETE http://localhost:5000/api/usuarios/1
 ![POST](screenshots/2-CreateUser.png)
 #### Obtener usuario por Id
 ![GET BY ID](screenshots/3-GetByIdUser.png)
-#### Obtener todos los usuarios des{ues de crear uno nuevo
+#### Obtener todos los usuarios después de crear uno nuevo
 ![GET All](screenshots/4-GetAllNextCreateNewOneUser.png)
 #### Crear duplicado del usuario
 ![POST](screenshots/5-CreateDuplicateUser.png)
-#### Actyalizar usuario
+#### Actualizar usuario
 ![PUT](screenshots/6-UpdateUser.png)
 #### Eliminar usuario
 ![DELETE](screenshots/7-DeleteUser.png)
