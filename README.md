@@ -70,10 +70,10 @@ Swagger disponible en: `http://localhost:5000/swagger`
 
 ## Capturas de pantalla
 
-![GET All](screenshots/GetAllUsers.png)
-![GET BY ID](screenshots/GetByIdUser.png)
-![POST](screenshots/CreateUser.png)
-![GET All](screenshots/GetAllNextCreateNewOneUser.png)
-![POST](screenshots/CreateDuplicateUser.png)
-![PUT](screenshots/UpdateUser.png)
-![DELETE](screenshots/DeleteUser.png)
+![GET All](screenshots/1-GetAllUsers.png)
+![GET BY ID](screenshots/2-GetByIdUser.png)
+![POST](screenshots/3-CreateUser.png)
+![GET All](screenshots/4-GetAllNextCreateNewOneUser.png)
+![POST](screenshots/5-CreateDuplicateUser.png)
+![PUT](screenshots/6-UpdateUser.png)
+![DELETE](screenshots/7-DeleteUser.png)
