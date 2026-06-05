@@ -1,7 +1,7 @@
-﻿using UsuariosAPI.DTOs.Requests;
-using UsuariosAPI.DTOs.Responses;
+﻿using UsuariosApi.DTOs.Requests;
+using UsuariosApi.DTOs.Responses;
 
-namespace UsuariosAPI.Services.Interfaces
+namespace UsuariosApi.Services.Interfaces
 {
     public interface IUsuarioService
     {

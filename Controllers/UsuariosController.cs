@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using UsuariosAPI.DTOs.Requests;
-using UsuariosAPI.Exceptions;
-using UsuariosAPI.Services.Interfaces;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using UsuariosApi.DTOs.Requests;
+using UsuariosApi.Exceptions;
+using UsuariosApi.Services.Interfaces;
 
-namespace UsuariosAPI.Controllers
+namespace UsuariosApi.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class UsuariosController : ControllerBase
