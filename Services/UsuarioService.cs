@@ -1,12 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using UsuariosAPI.Context;
-using UsuariosAPI.DTOs.Requests;
-using UsuariosAPI.DTOs.Responses;
-using UsuariosAPI.Exceptions;
-using UsuariosAPI.Models;
-using UsuariosAPI.Services.Interfaces;
+using UsuariosApi.Context;
+using UsuariosApi.DTOs.Requests;
+using UsuariosApi.DTOs.Responses;
+using UsuariosApi.Exceptions;
+using UsuariosApi.Models;
+using UsuariosApi.Services.Interfaces;
 
-namespace UsuariosAPI.Services
+namespace UsuariosApi.Services
 {
     public class UsuarioService : IUsuarioService
     {
