@@ -1,5 +1,5 @@
 ﻿using UsuariosApi.DTOs.Requests;
-using UsuariosApi.DTOs.Response;
+using UsuariosApi.DTOs.Responses;
 
 namespace UsuariosApi.Services.Interfaces
 {
