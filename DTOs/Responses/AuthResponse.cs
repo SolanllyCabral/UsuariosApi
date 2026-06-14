@@ -1,4 +1,4 @@
-﻿namespace UsuariosApi.DTOs.Response
+﻿namespace UsuariosApi.DTOs.Responses
 {
     public class AuthResponse
     {

@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using UsuariosApi.Context;
 using UsuariosApi.DTOs.Requests;
-using UsuariosApi.DTOs.Response;
+using UsuariosApi.DTOs.Responses;
 using UsuariosApi.Exceptions;
 using UsuariosApi.Services.Interfaces;
 
